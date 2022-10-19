@@ -13,7 +13,7 @@ The chat can be a group or channel. It can be private or public.
 
 Use below buttons to learn more !
 
-By @StarkBots
+By @AM_ROBOTS
     """
 
     # Home Button
@@ -23,13 +23,13 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/sources_cods/9")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/sources_cods")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/Technical_Help_Support_Bot")],
     ]
 
     # Help Message
@@ -62,13 +62,13 @@ Example : `/fsub -1001505616678` or `/forcesubscribe -1001375849192`
     ABOUT = """
 **About This Bot** 
 
-A telegram force subscribing bot by @StarkBots
+A telegram force subscribing bot by @sources_cods
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/ForceSubscribeBot)
+Source Code : [Click Here](https://bit.ly/3Tu7j2J)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @AM_ROBOTS
     """
